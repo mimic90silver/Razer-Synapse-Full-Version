@@ -1,0 +1,1 @@
+# Razer-Synapse-Full-Version
