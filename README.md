@@ -252,4 +252,4 @@ This repository serves as the official landing page for Razer Synapse. The softw
 **Get the most recent version of Razer Synapse today!**
 
 ---
-**Last updated:** 2026-09-12 05:19:21 UTC
+**Last updated:** 2026-09-12 09:55:41 UTC
